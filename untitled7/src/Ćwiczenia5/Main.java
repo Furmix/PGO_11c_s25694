@@ -14,7 +14,7 @@ public class Main {
         Plants b8 = new Plants("ROG", 5, 5);
         Flower b9 = new Flower("Rose", 84, 75);
         //   Root b10 = new Root("tORE", 2, 3);
-
+        Flower n =new Flower("dupa",43,23);
 
 
         Water b4 = new Water("paka", 5, 10, false);
